@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaesupersuntom01oehlgoog_0018.png"; bbox 0 0 3132 5238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 300 597 1520 780">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 300 597 1520 780">
+     <span class='ocr_line' id='line_1_1' title="bbox 300 597 1520 780; baseline -0.001 -18"><span class='ocrx_word' id='word_1_1' title='bbox 300 643 531 780; x_wconf 63' lang='lat' dir='ltr'><strong>Qum]</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 555 641 846 760; x_wconf 81' lang='lat' dir='ltr'>SEPTlMss</span> <span class='ocrx_word' id='word_1_3' title='bbox 869 642 1238 761; x_wconf 74' lang='lat' dir='ltr'>FLORENTls</span> <span class='ocrx_word' id='word_1_4' title='bbox 1485 597 1520 694; x_wconf 72' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 395 1095 1140 1354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 395 967 1234 1354">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 1095 1140 1354; baseline 0.002 -76"><span class='ocrx_word' id='word_1_5' title='bbox 395 1095 1140 1354; x_wconf 62' lang='lat' dir='ltr'><strong>TERTULLIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 147 1509 1392 1795">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 147 1509 1392 1795">
+     <span class='ocr_line' id='line_1_3' title="bbox 147 1509 1392 1795; baseline -0.002 -23"><span class='ocrx_word' id='word_1_6' title='bbox 147 1625 409 1795; x_wconf 78' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 466 1517 1003 1772; x_wconf 78' lang='lat' dir='ltr'><strong>SUPERSUNT</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1055 1509 1392 1770; x_wconf 18' lang='lat' dir='ltr'><strong>OMNIA.-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1570 5238">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1570 5238">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1570 5238; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1570 5238; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
